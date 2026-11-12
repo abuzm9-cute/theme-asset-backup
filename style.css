@@ -1,0 +1,15 @@
+#theme-asset-backup-root { margin: 12px 0; }
+#theme-asset-backup-root .inline-drawer-content { padding: 10px; }
+#theme-asset-backup-root p { opacity: .85; }
+#theme-asset-backup-root .tab-file-label { display:block; margin:10px 0; }
+#theme-asset-backup-root .tab-file { display:block; margin-top:6px; max-width:100%; }
+#theme-asset-backup-root .tab-toolbar { display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin:10px 0; }
+#theme-asset-backup-root .tab-count, #theme-asset-backup-root .tab-note { font-size:.85em; opacity:.75; }
+#theme-asset-backup-root .tab-item { display:flex; gap:9px; align-items:center; padding:9px 0; border-top:1px solid var(--SmartThemeBorderColor, #8886); }
+#theme-asset-backup-root .tab-preview { width:58px; height:58px; flex:0 0 58px; display:grid; place-items:center; overflow:hidden; border-radius:6px; background:var(--SmartThemeBlurTintColor, #8882); font-size:12px; }
+#theme-asset-backup-root .tab-preview img { width:100%; height:100%; object-fit:contain; }
+#theme-asset-backup-root .tab-info { min-width:0; flex:1; }
+#theme-asset-backup-root .tab-name { width:100%; min-width:0; box-sizing:border-box; }
+#theme-asset-backup-root .tab-use, #theme-asset-backup-root .tab-status { font-size:.78em; opacity:.8; overflow-wrap:anywhere; margin-top:3px; }
+#theme-asset-backup-root .tab-download { width:100%; margin:12px 0; }
+#theme-asset-backup-root .inline-drawer.closed .inline-drawer-content { display:none; }
