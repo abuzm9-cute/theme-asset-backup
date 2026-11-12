@@ -1,11 +1,11 @@
 {
-  "display_name": "美化素材备份器",
+  "display_name": "美化素材扫描器＋备份器",
   "loading_order": 10,
   "requires": [],
   "optional": [],
   "js": "index.js",
   "css": "style.css",
   "author": "Personal utility",
-  "version": "0.2.1",
-  "home page": "https://github.com/"
+  "version": "0.3.0",
+  "home page": "https://github.com/abuzm9-cute/theme-asset-backup"
 }
